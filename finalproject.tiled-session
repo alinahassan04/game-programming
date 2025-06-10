@@ -1,0 +1,84 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "gpfinal/final project.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "../game programming copy/assets/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "../game programming copy/assets/miniproject2.tmx": {
+            "scale": 1.3252,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 192.80108662843344,
+                "y": 230.5312405674615
+            }
+        },
+        "assets/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/miniproject2.tmx": {
+            "scale": 1.28,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 142.1875,
+                "y": 218.359375
+            }
+        },
+        "assets2/final project.tmx": {
+            "scale": 0.9362777777777777,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 450.1869103423723,
+                "y": 161.8109535394292
+            }
+        },
+        "final project.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 0.9631,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 406.49984425293326,
+                "y": 181.18575433496002
+            }
+        },
+        "game programming copy/assets/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "gpfinal/final project.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 0.9172,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 446.46750981247277,
+                "y": 110.662887047536
+            }
+        }
+    },
+    "map.fixedSize": true,
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 50,
+    "openFiles": [
+        "../game programming copy/assets/miniproject2.tmx",
+        "gpfinal/final project.tmx"
+    ],
+    "project": "finalproject.tiled-project",
+    "recentFiles": [
+        "../game programming copy/assets/miniproject2.tmx",
+        "gpfinal/final project.tmx",
+        "assets2/final project.tmx",
+        "assets/miniproject2.tmx"
+    ]
+}
