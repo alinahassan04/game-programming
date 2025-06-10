@@ -3,6 +3,8 @@ Alina Hassan
 Game Programming CSC 273-001 
 Final Project
 05/16/2025
+
+Pixel platform asset download: https://kenney.nl/assets/pixel-platformer
 """
 import os
 
